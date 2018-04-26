@@ -1,0 +1,6 @@
+---
+aws_access_key: "AKIAIF5773TG6V2E24ZA"
+aws_secret_key: "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"
+aws_region: "us-east-2"
+aws_project_name: "testing123"
+aws_image: "ami-976152f2"
